@@ -11,7 +11,6 @@ public class MagicBase : Magic_interface
     public GameObject SpawnItem()
     {
         obj = GameObject.Find("Magic Spawn");
-        Debug.Log(obj.name);
         return obj;
     }
 }

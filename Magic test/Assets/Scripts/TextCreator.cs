@@ -11,14 +11,14 @@ public class TextCreator : MonoBehaviour
     private void Start()
     {
         magic = new MagicBase();
-       // Spell.text = "";
+        Spell.text = "";
     }
 
     public void AddSpell(string spell)
     {
         counter++;
 
-       // Spell.text = counter + ") " + spell + ", ";
+        Spell.text += counter + ") " + spell + ", ";
 
         Setspell(spell);
     }
@@ -34,8 +34,12 @@ public class TextCreator : MonoBehaviour
         {
 
             magic = new Spawn_Circle(magic);
-
-            magic.SpawnItem();
         }
+
+    }
+
+    public void CastSpell()
+    {
+        magic.SpawnItem();
     }
 }
