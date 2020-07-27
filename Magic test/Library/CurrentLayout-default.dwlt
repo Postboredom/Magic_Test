@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 2489
+  controlID: 111
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 2490
+  controlID: 112
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,7 +192,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 2491
+  controlID: 113
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -357,7 +357,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -417,23 +417,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 48470000
       m_LastClickedID: 0
-      m_ExpandedIDs: 6ec3ffffecc3ffffe6c4ffff40c8ffff40ccffff70fbffff
+      m_ExpandedIDs: 58ddffffa0deffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: MeshToSDF
+        m_OriginalName: MeshToSDF
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -8550
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 6}
       m_SearchString: 
@@ -479,9 +479,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.4, y: 0.4922365, z: 0.42633268}
+    m_Target: {x: -0.26960185, y: 0.49223647, z: 0.42633268}
     speed: 2
-    m_Value: {x: 1.4, y: 0.4922365, z: 0.42633268}
+    m_Value: {x: -0.26960117, y: 0.49223647, z: 0.42633268}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -529,11 +529,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.3167621, y: 0.18394147, z: -0.062765114, w: -0.9283911}
     speed: 2
-    m_Value: {x: -0.31675857, y: 0.18393943, z: -0.06276442, w: -0.9283808}
+    m_Value: {x: -0.3167621, y: 0.18394147, z: -0.062765114, w: -0.9283911}
   m_Size:
-    m_Target: 4.5511246
+    m_Target: 7.5812483
     speed: 2
-    m_Value: 4.5511246
+    m_Value: 7.281248
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -623,20 +623,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/MeshToSDF/Editor
+    - Assets/MeshToSDF
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/MeshToSDF/Editor
+  - Assets/MeshToSDF
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\noah1\Documents\GitHub\Magic_Test\Magic test
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 159}
-    m_SelectedIDs: 5e460000
-    m_LastClickedID: 18014
-    m_ExpandedIDs: 00000000923e00005e4500005c46000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 7a470000
+    m_LastClickedID: 18298
+    m_ExpandedIDs: 00000000ba400000784700007a47000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -664,7 +664,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000923e00005c46000000ca9a3b
+    m_ExpandedIDs: 00000000ba400000784700007a470000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
